@@ -1,10 +1,10 @@
-## ✍🏻 Installation
+# ✍🏻 Installation
 
-- Run the script below, it will take care of everything for you.
+- **Run the script below, it will take care of everything for you**
 ```
 cd $HOME/.config && git clone https://github.com/spantheslayer/gitmane.git && cd gitmane && ./exec.sh && cd $HOME
 ```
-## 🀄️ Usage
+# 🀄️ Usage
 - **Whenever you want to commit something, just type:**
 ```
 $ p <file name you want to commit/push>
@@ -22,6 +22,11 @@ $ p
 - In all cases, you will be asked to enter a commit message, type it and press enter.
 - It will automatically push to the current branch you are in.
 
-## 🙈 That's it! Enjoy! 🎉
-🌿 Now you can commit and push to your git repository with just one command! Godspeed! 🚀
+# 🙈 That's it! Enjoy! 🎉
+🌿 Now you can commit and push to your git repository with just one command! Godspeed! 🚀  
 💀 God knows what are you going to do with all this time you're going to save!! 😂
+
+
+<img src="https://github.com/spantheslayer/gitmane/assets/61844611/2dd4edbb-3c7e-47e6-89ba-53fd4d709b07" width="500" height="500">
+
+
