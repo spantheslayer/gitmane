@@ -1,8 +1,10 @@
 #!/bin/bash
 
 if [ -d .git ]; then
-    if [ "$1" ]; then
-        git add "$1"
+    if [ "$#" -gt 0 ]; then
+        for file in "$@"; do
+            git add "$file"
+        done
     else
         git add .
     fi
