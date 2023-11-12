@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the alias
-alias_line='alias p="$HOME/gitpush.sh"'
+alias_line='alias p="$HOME/gitmane/gitpush.sh"'
 
 # Check for .zshrc and append the alias
 if [ -f "$HOME/.zshrc" ]; then
