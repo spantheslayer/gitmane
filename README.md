@@ -22,6 +22,8 @@ $ p
 - In all cases, you will be asked to enter a commit message, type it and press enter.
 - It will automatically push to the current branch you are in.
 
+> Note: after installation if you get "command not found: p" after running it for the first time, just restart your terminal and you'll be good to go 🚀
+
 # 🙈 That's it! Enjoy! 🎉
 🌿 Now you can commit and push to your git repository with just one command! Godspeed! 🚀  
 💀 God knows what are you going to do with all this time you're going to save!! 😂
